@@ -36,8 +36,9 @@ Développeur full-stack passionné par la création d'applications web modernes 
 const alexandre = {
     statut: "🔭 Freelance & Recherche CDI",
     localisation: "📍 Région parisienne (91)",
-    apprentissage: ["Docker", "OVH", "DevOps"],
-    interets: ["Automatisation", "SaaS", "B2B"],
+    apprentissage: ["Docker", "OVH", "DevOps", "IA/OpenAI"],
+    interets: ["Automatisation", "SaaS", "B2B", "IA"],
+    expertise: ["Multi-Tenant", "Marketing Automation"],
     objectif: "Rejoindre une ESN ou scale-up"
 };
 ```
@@ -86,7 +87,7 @@ const alexandre = {
 </tr>
 </table>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, Database & IA
 
 <table>
 <tr>
@@ -105,6 +106,10 @@ const alexandre = {
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
 <br>Prisma
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="55" height="55" alt="OpenAI" style="filter: brightness(0) invert(1);" />
+<br>OpenAI
 </td>
 </tr>
 </table>
@@ -154,27 +159,36 @@ const alexandre = {
 
 </div>
 
-**🚀 Plateforme ERP moderne pour artisans et PME** | ~70% complété
+**🚀 Plateforme ERP SaaS Multi-Tenant pour artisans et PME** | ~85% complété
 
 <table>
 <tr>
 <td width="60%">
 
-Application full-stack complète démontrant une maîtrise avancée de l'écosystème Next.js et des architectures modernes.
+Application full-stack SaaS complète démontrant une maîtrise avancée de l'écosystème Next.js et des architectures modernes scalables.
 
 **🔧 Stack technique** :
-- 🎨 **Frontend** : Next.js 16, React 19, TypeScript strict, Tailwind CSS v4, Shadcn/ui
+- 🎨 **Frontend** : Next.js 16, React 19, TypeScript strict, Tailwind CSS v4, Shadcn/ui, TanStack Query
 - ⚙️ **Backend** : Next.js API Routes, NextAuth.js v4 (JWT + OAuth Google)
-- 💾 **Database** : PostgreSQL 16 + Prisma ORM
+- 💾 **Database** : PostgreSQL 16 + Prisma ORM (Multi-Tenant)
+- 🤖 **IA** : OpenAI GPT-4 (Chatbot assistant)
 - ✅ **Validation** : Zod + React Hook Form
 
-**✨ Fonctionnalités** :
-- ✅ Authentification complète (JWT + OAuth Google)
-- ✅ Gestion des articles avec stocks et catégories
-- ✅ API RESTful complète (Clients, Documents, Articles)
-- ✅ Système d'alertes de stock
-- ✅ Architecture type-safe avec validation runtime
-- 🚧 Interface UI pour clients et documents commerciaux
+**✨ Fonctionnalités Core** :
+- ✅ **Architecture Multi-Tenant** - Système SaaS complet avec isolation des données
+- ✅ **Système d'abonnement** - Plans FREE/BASIC/PREMIUM/ENTERPRISE avec paywall
+- ✅ **Authentification complète** (JWT + OAuth Google + Onboarding)
+- ✅ **Gestion des articles** - CRUD, stocks, catégories, champs personnalisables
+- ✅ **Gestion des clients** - CRM complet avec import/export CSV
+- ✅ **Documents commerciaux** - Devis/Factures/Avoirs avec séries personnalisées
+- ✅ **Programme de fidélité** - Niveaux, points, récompenses automatiques
+- ✅ **Segmentation clients** - Segments prédéfinis et personnalisés
+- ✅ **Automations marketing** - Triggers et actions automatisées
+- ✅ **Campagnes marketing** - EMAIL/SMS avec analytics (ouvertures, clics)
+- ✅ **Chatbot IA** - Assistant intelligent avec OpenAI GPT-4
+- ✅ **Analytics dashboard** - KPIs temps réel et statistiques avancées
+- ✅ **Génération PDF** - Documents professionnels
+- ✅ **Landing page premium** - Page vitrine responsive et moderne
 
 </td>
 <td width="40%">
@@ -184,13 +198,83 @@ Application full-stack complète démontrant une maîtrise avancée de l'écosys
 **🎯 Ce que démontre ce projet** :
 
 ```typescript
-✓ Architecture full-stack moderne
-✓ Modélisation BDD complexe
-✓ Type safety complète
-✓ Sécurité (CSRF, JWT, OAuth)
-✓ Clean Architecture
-✓ Design System cohérent
+✓ Architecture SaaS Multi-Tenant
+✓ Modélisation BDD complexe (20+ tables)
+✓ Type safety complète (strict mode)
+✓ Sécurité (CSRF, JWT, OAuth, isolation)
+✓ Clean Architecture & Design Patterns
+✓ Intégration IA (OpenAI GPT-4)
+✓ Marketing automation & CRM avancé
+✓ Analytics & Business Intelligence
+✓ Design System cohérent & UX/UI premium
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Avancées récentes (2025)
+
+Le projet a considérablement évolué ces derniers mois avec l'ajout de fonctionnalités SaaS avancées :
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🏢 **Architecture SaaS**
+- ✅ Multi-tenant avec isolation complète
+- ✅ Système d'abonnements (4 plans)
+- ✅ Paywall et restrictions par plan
+- ✅ Onboarding guidé utilisateurs
+
+</td>
+<td width="33%" valign="top">
+
+#### 🤖 **Intelligence Artificielle**
+- ✅ Chatbot OpenAI GPT-4 intégré
+- ✅ Conversations contextuelles
+- ✅ Historique et gestion avancée
+- ✅ Function calling pour actions
+
+</td>
+<td width="33%" valign="top">
+
+#### 📊 **Marketing & Analytics**
+- ✅ Segmentation clients avancée
+- ✅ Automations marketing (6 triggers)
+- ✅ Campagnes EMAIL/SMS
+- ✅ Analytics temps réel & KPIs
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### 🎁 **Programme Fidélité**
+- ✅ Niveaux configurables (CRUD)
+- ✅ Points automatiques
+- ✅ Récompenses par niveau
+- ✅ Historique des mouvements
+
+</td>
+<td width="33%" valign="top">
+
+#### 📄 **Documents Avancés**
+- ✅ Séries de numérotation custom
+- ✅ Génération PDF professionnelle
+- ✅ Workflow Devis → Facture
+- ✅ Gestion des paiements
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎨 **UX/UI Premium**
+- ✅ Landing page moderne
+- ✅ Dashboard analytics
+- ✅ Import/Export CSV
+- ✅ React Query (optimisations)
 
 </td>
 </tr>
@@ -288,6 +372,7 @@ SaaS de monitoring Reddit pour génération de leads B2B
 const skills = {
   architecture: [
     "Clean Architecture",
+    "Multi-Tenant SaaS",
     "Design Patterns",
     "Type-Safe Development",
     "API RESTful Design",
@@ -297,7 +382,14 @@ const skills = {
     "Design System",
     "Component Libraries",
     "Responsive Design",
-    "UX/UI Best Practices"
+    "UX/UI Best Practices",
+    "State Management (React Query)"
+  ],
+  ai: [
+    "OpenAI Integration",
+    "Chatbot Architecture",
+    "Function Calling",
+    "Context Management"
   ]
 }
 ```
@@ -311,8 +403,10 @@ interface BonnesPratiques {
   code: "DRY & Maintenable";
   errors: "Centralized Handling";
   validation: "Runtime + Compile-time";
-  security: "CSRF, JWT, OAuth";
-  tests: "Unit & E2E";
+  security: "CSRF, JWT, OAuth, Multi-Tenant";
+  data: "Data Isolation & Caching";
+  performance: "React Query, Optimistic Updates";
+  ux: "Loading States, Error Boundaries";
   documentation: "Clear & Complete";
 }
 ```
