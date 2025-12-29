@@ -11,7 +11,7 @@
   <a href="https://github.com/AlexandreGoumain">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:alexandre.goumain@outlook.com">
+  <a href="mailto:alexandre.goumain.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AlexandreGoumain&label=Visiteurs&color=0e75b6&style=for-the-badge" alt="Visiteurs" />
@@ -605,7 +605,7 @@ const aiSkills = {
 <a href="https://github.com/AlexandreGoumain">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:alexandre.goumain@outlook.com">
+<a href="mailto:alexandre.goumain.pro@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
