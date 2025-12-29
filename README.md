@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est Alexandre
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Full-Stack+Senior;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Architecture+SaaS+%26+Multi-Tenant;Passionn%C3%A9+par+l'Innovation+%26+l'IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Full-Stack;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Architecture+SaaS+%26+Multi-Tenant;Passionn%C3%A9+par+l'Innovation+%26+l'IA)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-goumain/">
@@ -13,6 +13,9 @@
   </a>
   <a href="mailto:alexandre.goumain.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfolio-production-5301.up.railway.app/">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AlexandreGoumain&label=Visiteurs&color=0e75b6&style=for-the-badge" alt="Visiteurs" />
 </p>
@@ -26,11 +29,11 @@
 
 </div>
 
-## 💼 Développeur Full-Stack Senior | Next.js • React • TypeScript • Node.js
+## 💼 Développeur Full-Stack | Next.js • React • TypeScript • Node.js
 
-> **🔭 Freelance & Recherche CDI** | 📍 Région parisienne (91) | 🎯 ESN ou Scale-up
+> **🔭 Recherche CDI** | 📍 Palaiseau (91120) | 🎯 ESN ou Scale-up | 🌍 Télétravail ou présentiel
 
-Développeur full-stack passionné avec **+3 ans d'expérience** dans la création d'applications web modernes et performantes. Spécialisé dans l'écosystème JavaScript/TypeScript avec une expertise particulière en **architecture SaaS multi-tenant**, **Next.js** et **intégration IA**. Diplômé d'une alternance chez Clariane, je recherche actuellement un poste en CDI pour relever de nouveaux défis techniques.
+Développeur full-stack passionné, 24 ans, spécialisé dans l'écosystème JavaScript/TypeScript. Expertise en **React/TypeScript**, **micro-frontends**, **Next.js** et **architectures modernes**. Actuellement en alternance chez **Clariane** (fin octobre 2025), je recherche un poste en CDI pour relever de nouveaux défis techniques.
 
 ### 📈 Chiffres Clés
 
@@ -52,8 +55,8 @@ Développeur full-stack passionné avec **+3 ans d'expérience** dans la créati
 <tr>
 <td width="100%" valign="top">
 
-### 💼 Clariane | Développeur Full-Stack (Alternance)
-**📅 2022 - 2024** | Paris, France
+### 💼 Clariane | Développeur Front-End (Alternance)
+**📅 Octobre 2024 - Octobre 2025** | Paris 75008
 
 <details>
 <summary><b>🔍 Voir les détails</b></summary>
@@ -61,25 +64,79 @@ Développeur full-stack passionné avec **+3 ans d'expérience** dans la créati
 **Contexte** : Groupe leader européen dans les services de santé et de soins
 
 **Missions principales** :
-- 🏗️ Développement d'applications internes avec **React** et **Node.js**
-- 🔄 Migration et modernisation de systèmes legacy vers des architectures modernes
-- 📊 Création de tableaux de bord de suivi et analytics
-- 🤝 Collaboration avec les équipes métier pour comprendre les besoins
-- 📝 Rédaction de documentation technique
+- 🏗️ Développement d'applications **React / TypeScript** (+ React Native mobile)
+- 🔄 Mise en place d'architecture **micro-frontend** avec **i18n centralisée** (monorepo Nx)
+- ⚡ **Migration Webpack → Vite** (3 applications)
+- 🎨 **Optimisation rendu & performances**, Material-UI, Next.js
+- 🤝 Collaboration avec back-end & équipes produit
 
-**Compétences développées** :
-- Travail en équipe Agile (Scrum)
-- Code review et bonnes pratiques
-- Gestion de projet et communication
-- Autonomie et prise d'initiative
+**Projets clés** :
+- **Acces-manager** : Application de contrôle pour accéder aux micro-frontends
+- **Calexa** : Back office pour aide-soignant
+- **Superadmin** : Back office responsable d'établissement / grand compte
+- **Korian Family App** : Application mobile iOS/Android pour familles de patients
+- **Facility home screen** : Carrousel écran d'affichage multimédia (optimisation cache)
 
-**Technologies utilisées** :
+**Technologies** :
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 📈 Trader - Marchés Futures (CME Group) | Indépendant
+**📅 2022 - 2024** | Paris
+
+<details>
+<summary><b>🔍 Voir les détails</b></summary>
+
+- 📊 Analyse technique et fondamentale (données macro)
+- 📈 Lecture d'états financiers, prise de décision en environnement incertain
+- ⚖️ Gestion du risque et discipline opérationnelle
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🛒 Conseiller de Vente | Boulanger
+**📅 Janvier 2023 - Juin 2023** | Paris
+
+<details>
+<summary><b>🔍 Voir les détails</b></summary>
+
+- 🤝 Conseil client, atteinte d'objectifs
+- 📦 Vente de produits et garanties associées
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### ✈️ Stages Import-Export & Commercial
+**📅 2021** | Paris
+
+<details>
+<summary><b>🔍 Voir les détails</b></summary>
+
+**Bolloré Logistics (Safran Aerospace)** - Aéroport Charles de Gaulle
+- 📋 Organisation de liasses documentaires, conformité transport, coordination des flux
+
+**Samsea Voyages** - Paris (11ème)
+- 🎯 Prospection B2C/B2B, refonte du site et présentation commerciale
 
 </details>
 
@@ -99,14 +156,16 @@ Développeur full-stack passionné avec **+3 ans d'expérience** dans la créati
 
 ```typescript
 const alexandre = {
-    statut: "🔭 Freelance & Recherche CDI",
-    localisation: "📍 Région parisienne (91)",
-    experience: "3+ ans",
-    apprentissage: ["Docker", "Kubernetes", "AWS", "DevOps"],
+    statut: "🔭 Alternant & Recherche CDI",
+    localisation: "📍 Palaiseau (91120)",
+    age: 24,
+    formation: "Titre RNCP Développeur Fullstack",
+    apprentissage: ["Docker", "AWS", "DevOps", "NestJS"],
     interets: ["SaaS", "IA/ML", "Automatisation", "B2B"],
-    expertise: ["Multi-Tenant", "Marketing Automation", "CRM"],
+    expertise: ["Micro-Frontend", "React/TypeScript", "Next.js"],
+    langues: ["Français (natif)", "Anglais (C1)", "Espagnol (B1)"],
     objectif: "Rejoindre une ESN ou scale-up innovante",
-    disponibilite: "Immédiate"
+    disponibilite: "Octobre 2025"
 };
 ```
 
@@ -114,6 +173,47 @@ const alexandre = {
 <td width="50%">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🎓 Formation
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏫 Développeur Fullstack - RNCP (37273) Niveau III (FR) / 5 (EU)
+**📅 2024 - Octobre 2025** | [3W Academy](https://3wa.fr/) Paris
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 📚 BTS Commerce International
+**📅 2020 - 2022** | Cours Diderot Paris
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🎒 Baccalauréat Spécialité Informatique
+**📅 2017 - 2019** | Lycée Parc de Vilgénis, Massy
+
+Projet de groupe : création d'un site internet similaire à Leboncoin (JS, PHP, SQL, HTML, CSS)
 
 </td>
 </tr>
@@ -132,29 +232,46 @@ const alexandre = {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="55" height="55" />
-<br><b>Next.js 15</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
-</td>
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-<br><b>React 19</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
+<br><b>React</b>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
 <br><b>TypeScript</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind" />
-<br><b>Tailwind v4</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
 <br><b>JavaScript</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="55" height="55" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="55" height="55" />
+<br><b>Redux/Toolkit</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="55" height="55" alt="Material UI" />
+<br><b>Material-UI</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind" />
+<br><b>Tailwind CSS</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap" />
+<br><b>Bootstrap</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
+<br><b>Vite</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="55" height="55" alt="Webpack" />
+<br><b>Webpack</b>
 </td>
 </tr>
 </table>
@@ -166,27 +283,44 @@ const alexandre = {
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
 <br><b>Node.js</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express" />
 <br><b>Express</b>
-<br><img src="https://img.shields.io/badge/Avanc%C3%A9-10B981?style=flat-square" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="NestJS" />
+<br><b>NestJS</b>
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55" />
 <br><b>PostgreSQL</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
 <br><b>Prisma ORM</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" alt="Nginx" />
+<br><b>Nginx</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="55" height="55" alt="Jest" />
+<br><b>REST API</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" width="55" height="55" alt="OAuth" />
+<br><b>i18n</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
 <br><b>Redis</b>
-<br><img src="https://img.shields.io/badge/Interm%C3%A9diaire-F59E0B?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -218,34 +352,46 @@ const alexandre = {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-<br><b>GitHub</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-<br><b>Docker</b>
-<br><img src="https://img.shields.io/badge/Avanc%C3%A9-10B981?style=flat-square" />
-</td>
-<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" />
 <br><b>Git</b>
-<br><img src="https://img.shields.io/badge/Expert-3B82F6?style=flat-square" />
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
-<br><b>Figma</b>
-<br><img src="https://img.shields.io/badge/Avanc%C3%A9-10B981?style=flat-square" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<br><b>GitHub</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55" height="55" alt="Jira" />
 <br><b>Jira</b>
-<br><img src="https://img.shields.io/badge/Avanc%C3%A9-10B981?style=flat-square" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure" />
+<br><b>Azure DevOps</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<br><b>Docker</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+<br><b>Figma / UI-UX</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="CI/CD" />
+<br><b>CI/CD</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
 <br><b>Vercel</b>
-<br><img src="https://img.shields.io/badge/Avanc%C3%A9-10B981?style=flat-square" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55" height="55" alt="npm" />
+<br><b>Agile/Scrum</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
+<br><b>Design Patterns</b>
 </td>
 </tr>
 </table>
@@ -587,6 +733,16 @@ const aiSkills = {
 
 </div>
 
+### 🌍 Langues
+
+<div align="center">
+
+| 🇫🇷 Français | 🇬🇧 Anglais | 🇪🇸 Espagnol |
+|:---:|:---:|:---:|
+| Natif | Avancé (C1) | Intermédiaire (B1) |
+
+</div>
+
 </td>
 </tr>
 </table>
@@ -607,6 +763,9 @@ const aiSkills = {
 </a>
 <a href="mailto:alexandre.goumain.pro@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://portfolio-production-5301.up.railway.app/">
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -641,8 +800,8 @@ const aiSkills = {
 ### 💪 Ce que j'apporte
 
 ```diff
-! Expertise Full-Stack JS/TS (3+ ans)
-! Architecture d'applications complexes
+! Expertise React / TypeScript
+! Architecture micro-frontend & SaaS
 ! Esprit entrepreneurial & vision produit
 ! Autonomie & apprentissage rapide
 ! Passion pour l'innovation & l'IA
@@ -656,9 +815,9 @@ const aiSkills = {
 
 ### 📍 Informations pratiques
 
-| 📌 Localisation | 💼 Type de contrat | 🚀 Disponibilité | 💰 Prétentions |
+| 📌 Localisation | 💼 Type de contrat | 🚀 Disponibilité | 🌍 Mobilité |
 |:---:|:---:|:---:|:---:|
-| Paris & IDF (91) | CDI | Immédiate | Selon profil poste |
+| Palaiseau (91120) | CDI | Octobre 2025 | Télétravail ou présentiel |
 
 </div>
 
