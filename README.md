@@ -13,7 +13,7 @@ Actuellement en recherche de CDI après une alternance d'1 an chez Clariane.
 ## Expérience
 
 **Clariane** — Développeur Full-Stack (Alternance)
-*2023 - 2024*
+*2024 - 2025*
 
 - Développement d'applications internes React/Node.js
 - Migration de systèmes legacy vers des architectures modernes
