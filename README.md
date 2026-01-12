@@ -35,7 +35,7 @@ Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, OpenAI
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/alexandre-goumain/)
-- [Email](mailto:alexandre.goumain@outlook.com)
+- [Email](mailto:alexandre.goumain.pro@gmail.com)
 
 ---
 
