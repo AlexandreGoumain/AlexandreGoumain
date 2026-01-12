@@ -25,12 +25,6 @@ Actuellement en recherche de CDI après une alternance d'1 an chez Clariane.
 **[My Pro Partner](https://github.com/AlexandreGoumain/my-pro-partner)** — Plateforme SaaS pour artisans et PME
 Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, OpenAI
 
-**[Dashboard](https://github.com/AlexandreGoumain/Dashboard)** — Dashboard interactif avec visualisation de données
-TypeScript, React, Chart.js
-
-**[TradingSpace](https://github.com/AlexandreGoumain/TradingSpace)** — Outils d'analyse de marchés financiers
-JavaScript, APIs Finance
-
 ## Ce que je recherche
 
 - Projets techniques stimulants
