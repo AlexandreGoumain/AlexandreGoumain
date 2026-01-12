@@ -2,7 +2,7 @@
 
 Développeur Full-Stack basé en région parisienne (91), spécialisé dans l'écosystème JavaScript/TypeScript.
 
-Actuellement en recherche de CDI après une alternance de 2 ans chez Clariane.
+Actuellement en recherche de CDI après une alternance d'1 an chez Clariane.
 
 ## Stack principale
 
@@ -13,7 +13,7 @@ Actuellement en recherche de CDI après une alternance de 2 ans chez Clariane.
 ## Expérience
 
 **Clariane** — Développeur Full-Stack (Alternance)
-*2022 - 2024*
+*2023 - 2024*
 
 - Développement d'applications internes React/Node.js
 - Migration de systèmes legacy vers des architectures modernes
